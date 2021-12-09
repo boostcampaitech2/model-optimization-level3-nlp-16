@@ -2,10 +2,11 @@
 
 ## Table of Contents
 
-1. [Introduction](#Introduction)
-2. [Project Detail](#Project Detail)
-3. [How to Use](#How-to-use)
+1. [Introduction](#introduction)
+2. [Project Detail](#project-detail)
+3. [How to Use](#how-to-use)
 
+<br/>
 
 
 # Introduction
@@ -55,7 +56,7 @@
 | 최종 Score     | 1.2388       | 1.2195        |
 
 
-
+<br/>
 
 
 # Project Detail
@@ -71,14 +72,12 @@
 - `Optuna` 를 활용해 Neural Architecture Search 진행
 - MobileNetv2, MobileNetv3 에 사용된 모듈 사용
 - `f1_score`,`params_nums`(parameter 개수), `mean_time` 을 objective의 평가지표로 사용하여 모델의 성능을 유지하면서 작은 크기와 빠른 추론 속도를 갖는 경량화 모델 탐색
+- 최종제출 Model Architecture
 
-##### 최종제출 Model Architecture
-
-
-
+  <img src="https://user-images.githubusercontent.com/80210706/145322846-a85d0e91-5735-429b-ad5f-2b0800b7393d.png"  width="300" height="600">
 
 
-
+<br/>
 
 
 
